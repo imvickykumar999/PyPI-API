@@ -1,0 +1,12 @@
+License.txt
+MANIFEST.in
+README.md
+RUNME.py
+requirements.txt
+setup.py
+VickClass.egg-info/PKG-INFO
+VickClass.egg-info/SOURCES.txt
+VickClass.egg-info/dependency_links.txt
+VickClass.egg-info/top_level.txt
+vicksclass/__init__.py
+vicksclass/vicks.py
